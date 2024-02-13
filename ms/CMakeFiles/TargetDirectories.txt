@@ -1,0 +1,8 @@
+/home/brian/geant4-v11.2.0/B1/ms/CMakeFiles/exampleB1.dir
+/home/brian/geant4-v11.2.0/B1/ms/CMakeFiles/B1.dir
+/home/brian/geant4-v11.2.0/B1/ms/CMakeFiles/edit_cache.dir
+/home/brian/geant4-v11.2.0/B1/ms/CMakeFiles/rebuild_cache.dir
+/home/brian/geant4-v11.2.0/B1/ms/CMakeFiles/list_install_components.dir
+/home/brian/geant4-v11.2.0/B1/ms/CMakeFiles/install.dir
+/home/brian/geant4-v11.2.0/B1/ms/CMakeFiles/install/local.dir
+/home/brian/geant4-v11.2.0/B1/ms/CMakeFiles/install/strip.dir

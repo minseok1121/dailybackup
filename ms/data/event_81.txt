@@ -1,0 +1,10 @@
+0.0168374   2      -0.6      599.999      hadElastic
+0.0272643   3      -0.352291      593.854      hIoni
+0.153114   4      2.62477      511.659      hIoni
+0.257558   5      5.00679      441.456      hIoni
+0.344278   6      6.87334      381.205      hIoni
+0.416286   7      8.3519      329.725      protonInelastic
+0.0168374   2      -0.6      600      protonInelastic
+0.0168374   2      -0.6      600      protonInelastic
+0.0168374   2      -0.6      599.999      protonInelastic
+0.0168374   2      -0.6      599.999      protonInelastic
